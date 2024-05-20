@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [19/May/2024:19:50:53 -0400] "GET /my-webapp/galeria.jsp HTTP/1.1" 200 577 http-bio-8080-exec-1 897
+0:0:0:0:0:0:0:1 - - [19/May/2024:19:50:53 -0400] "GET /my-webapp/images/GettyImages-1363636142.jpg HTTP/1.1" 200 824502 http-bio-8080-exec-2 13
+0:0:0:0:0:0:0:1 - - [19/May/2024:19:50:53 -0400] "GET /my-webapp/images/vector-art-colorful-8140x8140-12144.jpg HTTP/1.1" 200 6594243 http-bio-8080-exec-3 76
+0:0:0:0:0:0:0:1 - - [19/May/2024:19:50:54 -0400] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [19/May/2024:20:10:50 -0400] "GET /my-webapp/ HTTP/1.1" 200 404 http-bio-8080-exec-7 144
+0:0:0:0:0:0:0:1 - - [19/May/2024:20:10:59 -0400] "GET /my-webapp/factorial.jsp HTTP/1.1" 200 429 http-bio-8080-exec-8 101
+0:0:0:0:0:0:0:1 - - [19/May/2024:20:11:03 -0400] "GET /my-webapp/galeria.jsp HTTP/1.1" 200 577 http-bio-8080-exec-9 3
+0:0:0:0:0:0:0:1 - - [19/May/2024:20:14:15 -0400] "GET /my-webapp/factorial.jsp?numero=5 HTTP/1.1" 200 514 http-bio-8080-exec-1 5
